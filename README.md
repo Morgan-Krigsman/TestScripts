@@ -12,3 +12,10 @@ Usage:
 	- Run the script.
 	- Enter the hostname or IP address to scan.
 	- Enter the starting and ending port numbers for the scan range.
+
+ txt_to_pdf.py
+ Script converts txt-file to pdf. Both txt and pdf-file targets need to be specified within the script.
+ Usage:
+ 	- Make sure a txt-file exists and the path is specified in the script.
+  	- Open terminal and navigate to the txt-file directory.
+   	- Run the script.
